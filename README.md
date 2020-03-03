@@ -8,4 +8,4 @@ This project is a simple single-page application that allows users to select a r
 Starter HTML / CSS / JS code and default artwork (including images, styling, and symbols) taken from the [Udacity classroom repository](https://github.com/udacity/mws-restaurant-stage-1).
 
 
-![Restaurant Reviews App](app-screenshot.PNG)
+![Restaurant Reviews App](app-screenshot.png)
