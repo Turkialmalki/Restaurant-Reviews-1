@@ -5,7 +5,7 @@ This project is a simple single-page application that allows users to select a r
 
 # Other Contributors
 
-Starter HTML / CSS / JS code and default artwork (including images, styling, and symbols) taken from the [Udacity classroom repository](https://github.com/udacity/mws-restaurant-stage-1).
+Starter HTML / CSS / JS code and default artwork (including images, styling, and symbols) taken from the [Udacity classroom repository](https://github.com/udacity/mws-restaurant-stage-1.git).
 
 
 ![Restaurant Reviews App](app-screenshot.png)
